@@ -20,9 +20,9 @@ The two projects are intentionally different in topic and visual style, to show 
 ### 1. Retail Sales Dashboard — "Bit"
 An interactive sales dashboard for a retail business, analysing performance across outlets, item types, and locations. It surfaces total and average sales, item counts, customer ratings, and outlet level breakdowns, all filterable by location, outlet size, and product type.
 
-[View the dashboard and details →](dashboard-1-retail-sales/)
+[View the dashboard and details →](retail_sale_analysis)
 
-![Retail dashboard preview](dashboard-1-retail-sales/screenshot.png)
+![Retail dashboard preview](retail_sale_analysis/Bit_lastMinuteApp.png)
 
 ---
 
