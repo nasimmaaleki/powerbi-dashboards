@@ -32,12 +32,12 @@ The dashboard is based on a retail outlet sales dataset (the Big Mart sales data
 - Average Customer Rating (3.9)
 
 **Breakdowns**
-- **Fat content split** — total sales by low fat versus regular products, including a per outlet tier view
-- **Item type ranking** — sales contribution of each product category, from fruits and snacks down to seafood
-- **Outlet establishment trend** — sales across establishment years (2012 to 2022), highlighting a clear peak in 2018
-- **Outlet size** — sales distribution across small, medium, and high size outlets
-- **Outlet location tiers** — sales by Tier 1, Tier 2, and Tier 3 locations
-- **Outlet type table** — a detailed comparison of grocery stores and supermarket types across all metrics, with conditional formatting for quick reading
+- **Fat content split**: total sales by low fat versus regular products, including a per outlet tier view
+- **Item type ranking**: sales contribution of each product category, from fruits and snacks down to seafood
+- **Outlet establishment trend**: sales across establishment years (2012 to 2022), highlighting a clear peak in 2018
+- **Outlet size**: sales distribution across small, medium, and high size outlets
+- **Outlet location tiers**: sales by Tier 1, Tier 2, and Tier 3 locations
+- **Outlet type table**: a detailed comparison of grocery stores and supermarket types across all metrics, with conditional formatting for quick reading
 
 **Interactivity**
 - A filter panel for outlet location type, outlet size, and item type
