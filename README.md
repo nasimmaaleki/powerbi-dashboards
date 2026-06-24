@@ -29,7 +29,7 @@ An interactive sales dashboard for a retail business, analysing performance acro
 ### 2. Spotify Streaming Dashboard
 A music analytics dashboard built on Spotify streaming data, exploring the most streamed songs across years. It combines streaming volume, audio features (energy, danceability, acousticness), and listening patterns into a polished, Spotify themed interface.
 
-[View the dashboard and details →](Spotify Streaming Analysis/)
+[View the dashboard and details →](Spotify Streaming Analysis)
 
 ![Spotify dashboard preview](Spotify Streaming Analysis/spotifyDashboard.png)
 
