@@ -7,7 +7,7 @@ A music analytics dashboard built in Power BI on Spotify streaming data, explori
 
 ## Dashboard Preview
 
-![Spotify Streaming Dashboard](screenshot.png)
+![Spotify Streaming Dashboard](spotifyDashboard.png)
 
 ---
 
