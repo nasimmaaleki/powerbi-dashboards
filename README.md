@@ -37,11 +37,11 @@ A music analytics dashboard built on Spotify streaming data, exploring the most 
 
 ## Skills Demonstrated
 
-- **Power BI dashboard design** — layout, theming, and visual hierarchy
-- **DAX** — calculated measures and dynamic logic
-- **Data visualization and storytelling** — turning raw data into clear, decision ready insight
-- **Advanced visuals** — custom charts using external tools such as Deneb and dynamic HTML
-- **Data preparation** — Python and API based data processing before modeling
+- **Power BI dashboard design** : layout, theming, and visual hierarchy
+- **DAX**: calculated measures and dynamic logic
+- **Data visualization and storytelling**:  turning raw data into clear, decision ready insight
+- **Advanced visuals**: custom charts using external tools such as Deneb and dynamic HTML
+- **Data preparation**: Python and API based data processing before modeling
 
 ---
 
