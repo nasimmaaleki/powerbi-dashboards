@@ -7,7 +7,7 @@ An interactive sales dashboard built in Power BI for a retail business, designed
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](screenshot.png)
+![Retail Sales Dashboard](Bit_lastMinuteApp.png)
 
 ---
 
