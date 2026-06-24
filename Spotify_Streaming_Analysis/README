@@ -1,4 +1,4 @@
-# Spotify_Streaming_Analysis
+# Spotify Streaming Dashboard
 ### Power BI | Consumer Analytics
 
 A music analytics dashboard built in Power BI on Spotify streaming data, exploring the most streamed songs across years through streaming volume, audio features, and listening patterns. The design closely mirrors the Spotify interface for a familiar, polished feel.
@@ -8,6 +8,7 @@ A music analytics dashboard built in Power BI on Spotify streaming data, explori
 ## Dashboard Preview
 
 ![Spotify_Streaming_Analysis](spotifyDashboard.png)
+
 ---
 
 ## Purpose
